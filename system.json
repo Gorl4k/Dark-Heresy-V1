@@ -4,7 +4,7 @@
     "description": "The DHV1 system for FoundryVTT!",
     "version": "0.0.1",
     "minimumCoreVersion": "10",
-    "compatibleCoreVersion": "11.315",
+    "compatibleCoreVersion": "11.311",
     "templateVersion": 2,
     "author": "Gorl4k for TheGorl4kShow",
     "esmodules": ["module/DHV1.js"],
