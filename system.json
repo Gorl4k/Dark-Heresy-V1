@@ -17,7 +17,7 @@
     "primaryTokenAttribute": "",
     "secondaryTokenAttribute": "",
     "url": "https://github.com/Gorl4k/Dark-Heresy-V1/blob/main/system.json",
-    "manifest": "https://github.com/Gorl4k/Dark-Heresy-V1/blob/main/system.json",
-    "download": "https://github.com/Gorl4k/Dark-Heresy-V1/blob/main/system.json",
+    "manifest": "https://raw.githubusercontent.com/Gorl4k/Dark-Heresy-V1/main/system.json",
+    "download": "",
     "license": "LICENSE.txt"
   }
