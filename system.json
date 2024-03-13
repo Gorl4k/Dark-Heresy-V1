@@ -16,8 +16,8 @@
     "gridUnits": "m",
     "primaryTokenAttribute": "",
     "secondaryTokenAttribute": "",
-    "url": "",
-    "manifest": "",
-    "download": "",
+    "url": "https://github.com/Gorl4k/Dark-Heresy-V1/blob/main/system.json",
+    "manifest": "https://github.com/Gorl4k/Dark-Heresy-V1/blob/main/system.json",
+    "download": "https://github.com/Gorl4k/Dark-Heresy-V1/blob/main/system.json",
     "license": "LICENSE.txt"
   }
